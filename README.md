@@ -13,8 +13,8 @@ I work on Codex workflow frameworks, agent governance, and spec-driven execution
 
 ## Current Projects
 
-- [SpecX](https://github.com/BTCNAI/specx-codex-plugin): governance layer for Codex agents with contracts, gates, evidence, execution results, and failure semantics.
-- [Harness](https://github.com/BTCNAI/harness-codex-plugin): workflow framework runtime for custom Codex agent systems with specs, artifacts, traces, and verification.
+- [SpecX](https://github.com/EvanAI0331/specx-codex-plugin): governance layer for Codex agents with contracts, gates, evidence, execution results, and failure semantics.
+- [Harness](https://github.com/EvanAI0331/harness-codex-plugin): workflow framework runtime for custom Codex agent systems with specs, artifacts, traces, and verification.
 
 ## Principles
 
